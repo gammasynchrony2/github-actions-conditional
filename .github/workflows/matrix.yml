@@ -1,5 +1,5 @@
 name: Matrix Demo
-on: push
+on: workflow-dispatch
 jobs:
   build:
     continue-on-error: true
